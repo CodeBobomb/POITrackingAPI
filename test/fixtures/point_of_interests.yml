@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  date_added: 2015-11-23
+  owner_id: 
+  tracking_device_id: 
+
+two:
+  name: MyString
+  description: MyText
+  date_added: 2015-11-23
+  owner_id: 
+  tracking_device_id: 
