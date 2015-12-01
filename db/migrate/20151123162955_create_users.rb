@@ -7,7 +7,6 @@ class CreateUsers < ActiveRecord::Migration
       t.string :username
       t.string :password
       t.date :date_of_birth
-      t.string :auth_token
 
       t.timestamps null: false
     end

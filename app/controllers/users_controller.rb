@@ -1,12 +1,34 @@
 class UsersController < ApplicationController
+  include ActionController::Serialization
   before_action :set_user, only: [:show, :update, :destroy]
+  before_action :authenticate, except: [:get_session_key]
 
+
+  def get_session_key
+    user = nil
+    if request.headers[:username].nil? || request.headers[:password].nil?
+      render :json => { error: MISSING_PARAMS }, :status => 422
+      puts "HERE"
+    else
+      user = User.find_by(username: request.headers[:username], password: request.headers[:password])
+      if user.nil?
+        render :json => { error: USER_NOT_FOUND }, status => 422
+      else
+        if user.session.expiration_date < Date.current
+          Session.destroy(user.session)
+          user.session=Session.create
+        end
+        render :json => { session_key: user.session.session_key} 
+      end
+    end
+    
+  end
   # GET /users
   # GET /users.json
   def index
     @users = User.all
 
-    render json: @users
+    render json: @users, root: false
   end
 
   # GET /users/1

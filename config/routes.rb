@@ -4,6 +4,8 @@ Rails.application.routes.draw do
       resources :tracking_devices, except: [:new, :edit]
     end
   end
+
+  get 'get_session_key' => 'users#get_session_key'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

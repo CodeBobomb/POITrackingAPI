@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151123163614) do
+ActiveRecord::Schema.define(version: 20151201215203) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -28,6 +28,16 @@ ActiveRecord::Schema.define(version: 20151123163614) do
 
   add_index "point_of_interests", ["owner_id"], name: "index_point_of_interests_on_owner_id", using: :btree
   add_index "point_of_interests", ["tracking_device_id"], name: "index_point_of_interests_on_tracking_device_id", using: :btree
+
+  create_table "sessions", force: :cascade do |t|
+    t.string   "session_key"
+    t.date     "expiration_date"
+    t.integer  "user_id"
+    t.datetime "created_at",      null: false
+    t.datetime "updated_at",      null: false
+  end
+
+  add_index "sessions", ["user_id"], name: "index_sessions_on_user_id", using: :btree
 
   create_table "tracking_devices", force: :cascade do |t|
     t.string   "device_name"
