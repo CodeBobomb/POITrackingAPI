@@ -1,7 +1,7 @@
 module Api
   class PointOfInterestsController < ApplicationController
     before_action :set_point_of_interest, only: [:show, :update, :destroy]
-
+    before_action :authenticate
     # GET /point_of_interests
     # GET /point_of_interests.json
     def index

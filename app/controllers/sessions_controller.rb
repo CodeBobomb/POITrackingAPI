@@ -1,7 +1,7 @@
 module Api
   class SessionsController < ApplicationController
     before_action :set_session, only: [:show, :update, :destroy]
-
+    before_action :authenticate
     # GET /sessions
     # GET /sessions.json
     def index
