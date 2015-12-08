@@ -11,7 +11,7 @@ Rails.application.routes.draw do
     end
   end
   
-  get 'login' => 'api/users#login'
+  get 'api/login' => 'api/users#login'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
