@@ -15,7 +15,9 @@ module Api
     def login 
       credentials = get_login_credentials
       puts credentials
-      user = User.find_by(username: credentials[0])
+      @user = User.find_by(username: credentials[0])
+      get_new_session_key if @user.session.expiration_date < Date.current
+      
       render json: { session_key: user.session.session_key }, status: 200
     end
 
@@ -72,6 +74,11 @@ module Api
         encoded_part = request.headers['Authorization']
 
         Base64.decode64(request.headers['Authorization'].split(' ')[1]).split(':')
+      end
+
+      def get_new_session_key
+        @user.session.set_session_key
+        @user.session.set_expiration_date
       end
   end
 end
