@@ -4,10 +4,10 @@ Rails.application.routes.draw do
     resources :companies, except: [:new, :edit]
     resources :point_of_interests, except: [:new, :edit], as: :poi
     resources :tracking_devices, except: [:new, :edit]
-    resources :users, except: [:new, :edit] 
+    resources :users, except: [:new, :edit]    
+    get 'login' => 'users#login'
   end
   
-  get 'v1/login' => 'v1/users#login'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
