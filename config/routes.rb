@@ -7,7 +7,7 @@ Rails.application.routes.draw do
     resources :users, except: [:new, :edit] 
   end
   
-  get 'api/login' => 'api/users#login'
+  get 'v1/login' => 'v1/users#login'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
