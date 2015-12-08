@@ -1,10 +1,16 @@
 Rails.application.routes.draw do
-  resources :tracking_devices, except: [:new, :edit]
-  resources :point_of_interests, except: [:new, :edit]
-  resources :sessions, except: [:new, :edit]
-  resources :users, except: [:new, :edit]
-  resources :companies, except: [:new, :edit]
 
+  namespace :api do
+    resources :companies, except: [:new, :edit] do
+      resources :point_of_interests, except: [:new, :edit] do
+        resources :tracking_devices, except: [:new, :edit]
+      end
+      resources :users, except: [:new, :edit] do
+        resources :sessions, except: [:new, :edit]
+      end
+    end
+  end
+  
   get 'login' => 'users#login'
 
   # The priority is based upon order of creation: first created -> highest priority.
