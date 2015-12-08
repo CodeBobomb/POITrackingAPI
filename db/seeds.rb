@@ -14,5 +14,5 @@ TrackingDevice.delete_all
 company = Company.create!(name: "Atlantbh", headquarters: "Sarajevo")
 user = User.create!(first_name: "Adnan", last_name: "Muslija", username: "adnanabh", email: "email@mail.com", password: "password123", date_of_birth: Date.current)
 user.session = Session.new
-PointOfInterest.create(name: "A Point", description: "Some Point", company: Company.first)
+PointOfInterest.create(name: "A Point", description: "Some Point", company: Company.first, lat: 44.201389, lng: 17.906389)
 TrackingDevice.create(device_name: "Tracking Device", device_type: "gps", point_of_interest: PointOfInterest.first)
