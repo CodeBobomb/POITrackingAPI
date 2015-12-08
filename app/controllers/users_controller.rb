@@ -1,4 +1,4 @@
-module Api
+module V1
   class UsersController < ApplicationController
     before_action :set_user, only: [:show, :update, :destroy]
     before_action :authenticate_login, only: :login
@@ -17,7 +17,7 @@ module Api
       puts credentials
       @user = User.find_by(username: credentials[0])
       get_new_session_key if @user.session.expiration_date < Date.current
-      
+
       render json: { session_key: user.session.session_key }, status: 200
     end
 

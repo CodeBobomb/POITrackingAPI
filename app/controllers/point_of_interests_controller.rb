@@ -1,4 +1,4 @@
-module Api
+module V1
   class PointOfInterestsController < ApplicationController
     before_action :set_point_of_interest, only: [:show, :update, :destroy]
     before_action :authenticate
