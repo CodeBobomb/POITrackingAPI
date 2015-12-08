@@ -1,22 +1,29 @@
-class ApplicationController < ActionController::API
-	before_action :destroy_session
+class ApplicationController < ActionController::Base
 
-	USER_NOT_FOUND = "User was not found."
-	MISSING_PARAMS = "Missing params."
-	INVALID_TOKEN = "Invalid token."
-	EXPIRED_TOKEN = "Token expired"
+protected
+	def authenticate
+		authenticate_token || render_unauthorized
+	end
 
-  	def destroy_session
-    	request.session_options[:skip] = true
+	def authenticate_login
+		authenticate_basic_auth || render_unauthorized
+	end
+
+  def authenticate_token
+  	authenticate_with_http_token do |token|
+  		Session.find_by(session_key: token)
   	end
+  end
 
-  	def authenticate
-  		puts params[:token]
-  		session = Session.where(session_key: params[:token])[0]
-  		if session.nil?
-			 render :json => { error: INVALID_TOKEN }, :status => 422
-		  elsif session.expiration_date < Date.current
-			 render :json => { error: EXPIRED_TOKEN }, :status => 442
-		  end
-  	end
+  def authenticate_basic_auth
+  	authenticate_with_http_basic do |username, password| 
+  		User.find_by(username: username, password: password)
+    end
+  end
+
+  def render_unauthorized
+  	self.headers['WWW-Authenticate'] = 'Token realm="None"'
+
+  	render json: { error: 'No authorization' }, status: 401 
+  end
 end

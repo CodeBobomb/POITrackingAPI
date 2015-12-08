@@ -4,7 +4,6 @@ class CreatePointOfInterests < ActiveRecord::Migration
       t.string :name
       t.text :description
       t.date :date_added
-      t.references :owner, index: true, foreign_key: true
 
       t.timestamps null: false
     end

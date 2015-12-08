@@ -1,4 +1,4 @@
 class User < ActiveRecord::Base
-	has_many :poi_items, class_name: "PointOfInterest", foreign_key: "owner_id"
+	belongs_to :company
 	has_one :session
 end

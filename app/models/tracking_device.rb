@@ -1,3 +1,3 @@
 class TrackingDevice < ActiveRecord::Base
-  belongs_to :poi, :class_name => "PointOfInterest"
+	belongs_to :point_of_interest, class_name: "PointOfInterest"
 end

@@ -2,10 +2,8 @@
 
 one:
   name: MyString
-  description: MyText
-  date_added: 2015-12-08
+  headquarters: MyString
 
 two:
   name: MyString
-  description: MyText
-  date_added: 2015-12-08
+  headquarters: MyString

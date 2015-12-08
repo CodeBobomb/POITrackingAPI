@@ -2,8 +2,8 @@
 
 one:
   session_key: MyString
-  expiration_date: 2015-12-01
+  expiration_date: 2015-12-08
 
 two:
   session_key: MyString
-  expiration_date: 2015-12-01
+  expiration_date: 2015-12-08

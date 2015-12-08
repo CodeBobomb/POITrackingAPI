@@ -1,11 +1,12 @@
 Rails.application.routes.draw do
-  resources :users, except: [:new, :edit] do
-    resources :point_of_interests, except: [:new, :edit], path: "poi_items" do
-      resources :tracking_devices, except: [:new, :edit]
-    end
-  end
+  resources :tracking_devices, except: [:new, :edit]
+  resources :point_of_interests, except: [:new, :edit]
+  resources :sessions, except: [:new, :edit]
+  resources :users, except: [:new, :edit]
+  resources :companies, except: [:new, :edit]
 
-  get 'get_session_key' => 'users#get_session_key'
+  get 'login' => 'users#login'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

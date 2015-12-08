@@ -1,13 +1,12 @@
+require 'tokengenerator.rb'
+
 class Session < ActiveRecord::Base
 	belongs_to :user
-	before_create :generate_authentication_token
+	before_create :set_session_key
 	before_create :set_date
 
-	def generate_authentication_token
-		loop do
-	        self.session_key = SecureRandom.hex(64)
-	    	break unless Session.find_by(session_key: self.session_key)
-	    end
+	def set_session_key
+		self.session_key = TokenGenerator.create
 	end
 
 	def set_date

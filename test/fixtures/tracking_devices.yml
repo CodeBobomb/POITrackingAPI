@@ -3,9 +3,7 @@
 one:
   device_name: MyString
   device_type: MyString
-  poi_id: 
 
 two:
   device_name: MyString
   device_type: MyString
-  poi_id: 

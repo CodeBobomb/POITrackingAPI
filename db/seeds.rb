@@ -6,10 +6,13 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 User.delete_all
+Company.delete_all
+Session.delete_all
 PointOfInterest.delete_all
 TrackingDevice.delete_all
 
-User.create(first_name: "Adnan", last_name: "Muslija", username: "adnanabh", email: "email@mail.com", password: "password123", date_of_birth: Date.current)
-User.find_by(username: "adnanabh").session=Session.create
-PointOfInterest.create(name: "A Point", description: "Some Point", owner: User.first)
-TrackingDevice.create(device_name: "Tracking Device", device_type: "gps", poi: PointOfInterest.first)
+company = Company.create!(name: "Atlantbh", headquarters: "Sarajevo")
+user = User.create!(first_name: "Adnan", last_name: "Muslija", username: "adnanabh", email: "email@mail.com", password: "password123", date_of_birth: Date.current)
+user.session = Session.new
+PointOfInterest.create(name: "A Point", description: "Some Point", company: Company.first)
+TrackingDevice.create(device_name: "Tracking Device", device_type: "gps", point_of_interest: PointOfInterest.first)

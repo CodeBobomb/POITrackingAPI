@@ -54,6 +54,6 @@ class PointOfInterestsController < ApplicationController
     end
 
     def point_of_interest_params
-      params.require(:point_of_interest).permit(:name, :description, :date_added, :owner_id, :tracking_device_id)
+      params.require(:point_of_interest).permit(:name, :description, :date_added)
     end
 end

@@ -13,7 +13,7 @@ class PointOfInterestsControllerTest < ActionController::TestCase
 
   test "should create point_of_interest" do
     assert_difference('PointOfInterest.count') do
-      post :create, point_of_interest: { date_added: @point_of_interest.date_added, description: @point_of_interest.description, name: @point_of_interest.name, owner_id: @point_of_interest.owner_id, tracking_device_id: @point_of_interest.tracking_device_id }
+      post :create, point_of_interest: { date_added: @point_of_interest.date_added, description: @point_of_interest.description, name: @point_of_interest.name }
     end
 
     assert_response 201
@@ -25,7 +25,7 @@ class PointOfInterestsControllerTest < ActionController::TestCase
   end
 
   test "should update point_of_interest" do
-    put :update, id: @point_of_interest, point_of_interest: { date_added: @point_of_interest.date_added, description: @point_of_interest.description, name: @point_of_interest.name, owner_id: @point_of_interest.owner_id, tracking_device_id: @point_of_interest.tracking_device_id }
+    put :update, id: @point_of_interest, point_of_interest: { date_added: @point_of_interest.date_added, description: @point_of_interest.description, name: @point_of_interest.name }
     assert_response 204
   end
 

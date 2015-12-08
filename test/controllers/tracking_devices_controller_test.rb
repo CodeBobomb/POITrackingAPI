@@ -13,7 +13,7 @@ class TrackingDevicesControllerTest < ActionController::TestCase
 
   test "should create tracking_device" do
     assert_difference('TrackingDevice.count') do
-      post :create, tracking_device: { device_name: @tracking_device.device_name, device_type: @tracking_device.device_type, poi_id: @tracking_device.poi_id }
+      post :create, tracking_device: { device_name: @tracking_device.device_name, device_type: @tracking_device.device_type }
     end
 
     assert_response 201
@@ -25,7 +25,7 @@ class TrackingDevicesControllerTest < ActionController::TestCase
   end
 
   test "should update tracking_device" do
-    put :update, id: @tracking_device, tracking_device: { device_name: @tracking_device.device_name, device_type: @tracking_device.device_type, poi_id: @tracking_device.poi_id }
+    put :update, id: @tracking_device, tracking_device: { device_name: @tracking_device.device_name, device_type: @tracking_device.device_type }
     assert_response 204
   end
 

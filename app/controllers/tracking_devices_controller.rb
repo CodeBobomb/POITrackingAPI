@@ -54,6 +54,6 @@ class TrackingDevicesController < ApplicationController
     end
 
     def tracking_device_params
-      params.require(:tracking_device).permit(:device_name, :device_type, :poi_id)
+      params.require(:tracking_device).permit(:device_name, :device_type)
     end
 end
