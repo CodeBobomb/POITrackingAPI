@@ -1,5 +1,11 @@
 Rails.application.routes.draw do
 
+
+match '*path', :controller => 'application', :action => 'handle_options_request', :constraints => {:method => 'OPTIONS'}
+
+def handle_options_request
+    head(:ok) if request.request_method == "OPTIONS"
+end
   namespace :v1 do
     resources :companies, except: [:new, :edit], via: :options
     resources :point_of_interests, except: [:new, :edit], as: :poi, via: :options
