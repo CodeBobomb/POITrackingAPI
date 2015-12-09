@@ -1,11 +1,11 @@
 Rails.application.routes.draw do
 
   namespace :v1 do
-    resources :companies, except: [:new, :edit]
-    resources :point_of_interests, except: [:new, :edit], as: :poi
-    resources :tracking_devices, except: [:new, :edit]
-    resources :users, except: [:new, :edit]    
-    get 'login' => 'users#login'
+    resources :companies, except: [:new, :edit], via: :options
+    resources :point_of_interests, except: [:new, :edit], as: :poi, via: :options
+    resources :tracking_devices, except: [:new, :edit], via: :options
+    resources :users, except: [:new, :edit], via: :options
+    get 'login' => 'users#login', via: :options
   end
   
 
