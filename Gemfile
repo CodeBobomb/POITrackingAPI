@@ -30,6 +30,6 @@ gem 'capistrano-bundler', '~> 1.1.2'
 gem 'capistrano-rails', '~> 1.1.1'
 
 gem 'capistrano-rvm', github: "capistrano/rvm"
-
+gem 'rack-cors', :require => 'rack/cors'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
