@@ -6,6 +6,7 @@ Rails.application.routes.draw do
     resources :tracking_devices, except: [:new, :edit]
     resources :users, except: [:new, :edit]
     get 'login' => 'users#login'
+    match 'login' => 'users#login', via: :options
   end
   
 
