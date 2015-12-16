@@ -55,7 +55,7 @@ module V1
       end
 
       def point_of_interest_params
-        params.require(:point_of_interest).permit(:name, :description, :date_added)
+        params.require(:point_of_interest).permit(:name, :description, :date_added, :lat, :lng, :company_id)
       end
   end
 end
