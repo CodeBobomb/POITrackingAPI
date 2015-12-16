@@ -22,7 +22,7 @@ module V1
       @point_of_interest = PointOfInterest.new(point_of_interest_params)
 
       if @point_of_interest.save
-        render json: @point_of_interest, status: :created, location: @point_of_interest
+        render json: @point_of_interest, status: :created
       else
         render json: @point_of_interest.errors, status: :unprocessable_entity
       end

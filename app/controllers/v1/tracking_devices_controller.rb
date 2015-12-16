@@ -22,7 +22,7 @@ module V1
       @tracking_device = TrackingDevice.new(tracking_device_params)
 
       if @tracking_device.save
-        render json: @tracking_device, status: :created, location: @tracking_device
+        render json: @tracking_device, status: :created
       else
         render json: @tracking_device.errors, status: :unprocessable_entity
       end
