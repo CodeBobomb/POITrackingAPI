@@ -5,7 +5,7 @@ module V1
     # GET /point_of_interests
     # GET /point_of_interests.json
     def index
-      @point_of_interests = PointOfInterest.all
+      @point_of_interests = PointOfInterest.where(company_id: find_owner_company_id)
 
       render json: @point_of_interests
     end
@@ -13,7 +13,11 @@ module V1
     # GET /point_of_interests/1
     # GET /point_of_interests/1.json
     def show
-      render json: @point_of_interest
+      if @point_of_interest.company.id != find_owner_company_id
+        head :unauthorized
+      else
+        render json: @point_of_interest
+      end
     end
 
     # POST /point_of_interests
@@ -49,6 +53,12 @@ module V1
     end
 
     private
+      def find_owner_company_id
+        Session.where(session_key: extract_session_key).first.user.company.id
+      end
+      def extract_session_key
+        request.headers[:authorization].split('=')[1]
+      end
 
       def set_point_of_interest
         @point_of_interest = PointOfInterest.find(params[:id])
