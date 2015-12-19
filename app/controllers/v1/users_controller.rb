@@ -14,7 +14,6 @@ module V1
 
     def login 
       credentials = get_login_credentials
-      puts credentials
       @user = User.find_by(username: credentials[0])
       get_new_session_key if @user.session.expiration_date < Date.current
 
@@ -84,6 +83,7 @@ module V1
         session.set_session_key
         session.set_expiration_date
         session.save
+        @user.session=session
       end
   end
 end
