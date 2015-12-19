@@ -12,7 +12,14 @@ protected
 
   def authenticate_token
   	authenticate_with_http_token do |token|
-  		Session.find_by(session_key: token)
+  		@session = Session.find_by(session_key: token)
+      
+      if @session.expiration_date < Date.current
+        @message = "Expired token."
+        return false
+      end
+
+      @session
   	end
   end
 
@@ -24,7 +31,8 @@ protected
 
   def render_unauthorized
   	self.headers['WWW-Authenticate'] = 'Token realm="None"'
-
-  	render json: { error: 'No authorization' }, status: 401 
+    json_response = { error: 'No authorization' }
+    json_response[:message] = @message if @message
+  	render json: json_response, status: 401 
   end
 end
