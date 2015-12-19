@@ -16,7 +16,7 @@ module V1
       credentials = get_login_credentials
       puts credentials
       @user = User.find_by(username: credentials[0])
-      #get_new_session_key if @user.session.expiration_date < Date.current
+      get_new_session_key if @user.session.expiration_date < Date.current
 
       render json: render_login_data, status: 200
     end
