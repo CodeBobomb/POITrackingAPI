@@ -80,8 +80,10 @@ module V1
       end
 
       def get_new_session_key
-        @user.session.set_session_key
-        @user.session.set_expiration_date
+        session = Session.find_by(id: @user.session.id)
+        session.set_session_key
+        session.set_expiration_date
+        session.save
       end
   end
 end
