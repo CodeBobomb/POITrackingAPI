@@ -7,7 +7,7 @@ module V1
     def index
       @point_of_interests = PointOfInterest.where(company_id: find_owner_company_id)
 
-      render json: @point_of_interests
+      render json: @point_of_interests, root: 'pois'
     end
 
     # GET /point_of_interests/1
@@ -16,7 +16,7 @@ module V1
       if @point_of_interest.company.id != find_owner_company_id
         head :unauthorized
       else
-        render json: @point_of_interest
+        render json: @point_of_interest, root: 'poi'
       end
     end
 
