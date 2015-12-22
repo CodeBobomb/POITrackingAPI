@@ -13,7 +13,7 @@ protected
   def authenticate_token
   	authenticate_with_http_token do |token|
   		@session = Session.find_by(session_key: token)
-      
+      return false if @session.nil?
       if @session.expiration_date < Date.current
         @message = "Expired token."
         return false
