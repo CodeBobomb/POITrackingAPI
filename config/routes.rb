@@ -5,7 +5,7 @@ Rails.application.routes.draw do
     resources :point_of_interests, except: [:new, :edit], path: "poi"
     resources :tracking_devices, except: [:new, :edit]
     resources :users, except: [:new, :edit]
-    match 'login' => 'users#login', via: [:options, :get]
+    match 'login' => 'users#login', via: :get
   end
   
 
