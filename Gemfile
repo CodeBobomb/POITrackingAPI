@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
-
+ruby 2.2.1
+gem 'rails_12factor'
 gem 'rails', '4.2.5'
 gem 'rails-api'
 gem 'spring', :group => :development
 gem 'pg'
 gem 'active_model_serializers'
+gem 'puma'
 
 
 # To use ActiveModel has_secure_password
