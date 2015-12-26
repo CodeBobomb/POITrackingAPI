@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151208143633) do
+ActiveRecord::Schema.define(version: 20151226121517) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -32,7 +32,18 @@ ActiveRecord::Schema.define(version: 20151208143633) do
     t.integer  "company_id"
     t.float    "lat"
     t.float    "lng"
+    t.boolean  "tracking"
   end
+
+  create_table "points", force: :cascade do |t|
+    t.decimal  "lng"
+    t.decimal  "lat"
+    t.integer  "point_of_interest_id"
+    t.datetime "created_at",           null: false
+    t.datetime "updated_at",           null: false
+  end
+
+  add_index "points", ["point_of_interest_id"], name: "index_points_on_point_of_interest_id", using: :btree
 
   create_table "sessions", force: :cascade do |t|
     t.string   "session_key"
@@ -62,4 +73,5 @@ ActiveRecord::Schema.define(version: 20151208143633) do
     t.integer  "company_id"
   end
 
+  add_foreign_key "points", "point_of_interests"
 end

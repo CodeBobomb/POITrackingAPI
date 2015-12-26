@@ -1,6 +1,6 @@
 module V1
   class PointOfInterestsController < ApplicationController
-    before_action :set_point_of_interest, only: [:show, :update, :destroy]
+    before_action :set_point_of_interest, only: [:show, :update, :destroy, :start_tracking, :stop_tracking, :track]
     before_action :authenticate
     # GET /point_of_interests
     # GET /point_of_interests.json
@@ -52,7 +52,68 @@ module V1
       head :no_content
     end
 
+    def start_tracking
+      position_increment = 0.001
+      if @point_of_interest.tracking
+        render json: { error: 'Point is already being tracked.' }, status: :unprocessable_entity
+      else
+        point = Point.create(lat: @point_of_interest.lat, lng: @point_of_interest.lng + position_increment)
+        @point_of_interest.update(point: point, tracking: true)
+        head :no_content
+      end
+    end
+
+    def stop_tracking
+      if !@point_of_interest.tracking
+        render json: { error: 'Point is not being tracked' }, status: :unprocessable_entity 
+      else
+        point = @point_of_interest.point
+        point.destroy
+        @point_of_interest.update(point: nil, tracking: false)
+        head :no_content
+      end
+    end
+
+    def track
+      if !@point_of_interest.tracking
+        render json: { error: 'Point is not being tracked' }, status: :unprocessable_entity
+      else
+        step = get_step
+        @point_of_interest.lng += step
+        render json: @point_of_interest, root: 'poi'
+
+        if (step > 0 && @point_of_interest.lng > @point_of_interest.point.lng) || (step < 0 && @point_of_interest.lng < @point_of_interest.point.lng)
+          reverse_tracking
+        end
+      end
+    end
+
     private
+      def get_step
+        position_increment = 0.01
+        if DateTime.current.second % 5 
+          step = (position_increment / 30.0) * (DateTime.current.second % 30) 
+          step = -step if (@point_of_interest.point.lng < @point_of_interest.lng)      
+        else
+          step = 0
+        end
+        step
+      end
+
+      def reverse_tracking
+        poi = @point_of_interest
+        set_point_of_interest
+
+        @point_of_interest.point.lng = @point_of_interest.lng
+        @point_of_interest.point.lat = @point_of_interest.lat
+
+        @point_of_interest.lng = poi.lng
+        @point_of_interest.lat = poi.lat
+
+        @point_of_interest.save
+        @point_of_interest.point.save
+      end
+
       def find_owner_company_id
         Session.where(session_key: extract_session_key).first.user.company.id
       end

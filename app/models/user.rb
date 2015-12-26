@@ -4,6 +4,6 @@ class User < ActiveRecord::Base
 	has_one :session
 
 	def set_session
-		this.session = Session.new
+		@session = Session.new
 	end
 end

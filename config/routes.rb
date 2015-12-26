@@ -6,8 +6,10 @@ Rails.application.routes.draw do
     resources :tracking_devices, except: [:new, :edit]
     resources :users, except: [:new, :edit]
     match 'login' => 'users#login', via: :get
+    post 'poi/:id/start_tracking' => 'point_of_interests#start_tracking'
+    post 'poi/:id/stop_tracking' => 'point_of_interests#stop_tracking'
+    post 'poi/:id/track' => 'point_of_interests#track'
   end
-  
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
