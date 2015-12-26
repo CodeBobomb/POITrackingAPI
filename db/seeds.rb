@@ -8,6 +8,7 @@
 User.delete_all
 Company.delete_all
 Session.delete_all
+Point.delete_all
 PointOfInterest.delete_all
 TrackingDevice.delete_all
 

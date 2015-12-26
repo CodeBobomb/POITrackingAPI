@@ -79,7 +79,7 @@ module V1
         render json: { error: 'Point is not being tracked' }, status: :unprocessable_entity
       else
         step = get_step
-        @point_of_interest.lng += step
+        @point_of_interest.lng += lng_value
         render json: @point_of_interest, root: 'poi'
 
         if (step > 0 && @point_of_interest.lng > @point_of_interest.point.lng) || (step < 0 && @point_of_interest.lng < @point_of_interest.point.lng)
@@ -91,24 +91,21 @@ module V1
     private
       def get_step
         position_increment = 0.01
-        if DateTime.current.second % 5 
-          step = (position_increment / 30.0) * (DateTime.current.second % 30) 
-          step = -step if (@point_of_interest.point.lng < @point_of_interest.lng)      
-        else
-          step = 0
-        end
+        interval = 30.0
+        step = (position_increment / interval) * (DateTime.current.second % interval)
+        step = -step if (@point_of_interest.point.lng < @point_of_interest.lng)        
         step
       end
 
       def reverse_tracking
-        poi = @point_of_interest
-        set_point_of_interest
+        temp_lng = @point_of_interest.lng
+        temp_lat = @point_of_interest.lat
 
-        @point_of_interest.point.lng = @point_of_interest.lng
-        @point_of_interest.point.lat = @point_of_interest.lat
+        @point_of_interest.lng = @point_of_interest.point.lng
+        @point_of_interest.lat = @point_of_interest.point.lat
 
-        @point_of_interest.lng = poi.lng
-        @point_of_interest.lat = poi.lat
+        @point_of_interest.point.lng = temp_lng
+        @point_of_interest.point.lat = temp_lat
 
         @point_of_interest.save
         @point_of_interest.point.save
