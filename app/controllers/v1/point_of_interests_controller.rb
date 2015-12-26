@@ -25,7 +25,7 @@ module V1
     def create
       @point_of_interest = PointOfInterest.new(point_of_interest_params)
 
-      if @point_of_interest.save
+      if Comopany.where(id: @point_of_interest.company.id) && @point_of_interest.save
         render json: @point_of_interest, status: :created
       else
         render json: @point_of_interest.errors, status: :unprocessable_entity
@@ -57,7 +57,8 @@ module V1
       if @point_of_interest.tracking
         render json: { error: 'Point is already being tracked.' }, status: :unprocessable_entity
       else
-        point = Point.create(lat: @point_of_interest.lat, lng: @point_of_interest.lng + position_increment)
+        point = Point.create(lat: @point_of_interest.lat, lng: @point_of_interest.lng + position_increment, inc: true)
+        puts "ok",point.lng, point.lat
         @point_of_interest.update(point: point, tracking: true)
         head :no_content
       end
@@ -79,10 +80,11 @@ module V1
         render json: { error: 'Point is not being tracked' }, status: :unprocessable_entity
       else
         step = get_step
-        @point_of_interest.lng += lng_value
-        render json: @point_of_interest, root: 'poi'
+        step = -step if !@point_of_interest.point.inc
+        @point_of_interest.lng += step
 
-        if (step > 0 && @point_of_interest.lng > @point_of_interest.point.lng) || (step < 0 && @point_of_interest.lng < @point_of_interest.point.lng)
+        render json: @point_of_interest, root: 'poi'
+        if (@point_of_interest.point.inc && @point_of_interest.lng > @point_of_interest.point.lng) || (!@point_of_interest.point.inc && @point_of_interest.lng < @point_of_interest.point.lng)
           reverse_tracking
         end
       end
@@ -93,7 +95,7 @@ module V1
         position_increment = 0.01
         interval = 30.0
         step = (position_increment / interval) * (DateTime.current.second % interval)
-        step = -step if (@point_of_interest.point.lng < @point_of_interest.lng)        
+        puts "mkay", step        
         step
       end
 
@@ -106,6 +108,7 @@ module V1
 
         @point_of_interest.point.lng = temp_lng
         @point_of_interest.point.lat = temp_lat
+        @point_of_interest.point.inc = !@point_of_interest.point.inc
 
         @point_of_interest.save
         @point_of_interest.point.save
