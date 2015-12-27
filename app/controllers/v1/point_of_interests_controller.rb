@@ -25,7 +25,7 @@ module V1
     def create
       @point_of_interest = PointOfInterest.new(point_of_interest_params)
 
-      if Comopany.where(id: @point_of_interest.company.id) && @point_of_interest.save
+      if Company.where(id: @point_of_interest.company.id) && @point_of_interest.save
         render json: @point_of_interest, status: :created
       else
         render json: @point_of_interest.errors, status: :unprocessable_entity
