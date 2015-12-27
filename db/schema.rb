@@ -36,15 +36,15 @@ ActiveRecord::Schema.define(version: 20151226203143) do
   end
 
   create_table "points", force: :cascade do |t|
-    t.decimal  "lng"
-    t.decimal  "lat"
+    t.float    "lng"
+    t.float    "lat"
     t.integer  "point_of_interest_id"
     t.datetime "created_at",           null: false
     t.datetime "updated_at",           null: false
     t.boolean  "inc"
-    t.decimal  "lng_inc"
-    t.decimal  "lat_inc"
-    t.decimal  "inc_value"
+    t.float    "lng_inc"
+    t.float    "lat_inc"
+    t.float    "inc_value"
   end
 
   add_index "points", ["point_of_interest_id"], name: "index_points_on_point_of_interest_id", using: :btree
