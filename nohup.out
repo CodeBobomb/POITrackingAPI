@@ -1,0 +1,1599 @@
+  [1m[36mPointOfInterest Load (0.2ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (1.0ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.6ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.6ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.6ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.6ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (1.1ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (1.1ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (1.1ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.1ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.6ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.8ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.2ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.6ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (1.1ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+rake aborted!
+Interrupt: 
+/fax/poi_tracking_api/lib/tasks/tracking.rake:25:in `sleep'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:25:in `block (3 levels) in <top (required)>'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:4:in `loop'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:4:in `block (2 levels) in <top (required)>'
+Tasks: TOP => tracking:start_tracking_job
+(See full trace by running task with --trace)
+  [1m[36mPointOfInterest Load (0.2ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.0ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.9ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.0ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+sleeping
+  [1m[36mPointOfInterest Load (0.1ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+rake aborted!
+NoMethodError: undefined method `point_of_interest' for #<PointOfInterest:0x00000003b440f8>
+/home/vagrant/.vendor/ruby/2.2.0/gems/activemodel-4.2.5/lib/active_model/attribute_methods.rb:433:in `method_missing'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:15:in `block (4 levels) in <top (required)>'
+/home/vagrant/.vendor/ruby/2.2.0/gems/activerecord-4.2.5/lib/active_record/relation/delegation.rb:46:in `each'
+/home/vagrant/.vendor/ruby/2.2.0/gems/activerecord-4.2.5/lib/active_record/relation/delegation.rb:46:in `each'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:6:in `block (3 levels) in <top (required)>'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:4:in `loop'
+/fax/poi_tracking_api/lib/tasks/tracking.rake:4:in `block (2 levels) in <top (required)>'
+Tasks: TOP => tracking:start_tracking_job
+(See full trace by running task with --trace)
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.3ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907222333334968], ["updated_at", "2015-12-26 20:51:34.478016"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.6ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907239000001667], ["updated_at", "2015-12-26 20:51:35.486891"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.1ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907255666668366], ["updated_at", "2015-12-26 20:51:36.494029"], ["id", 28]]
+  [1m[36m (0.8ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.7ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907272333335065], ["updated_at", "2015-12-26 20:51:37.502901"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.6ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907289000001768], ["updated_at", "2015-12-26 20:51:38.510779"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907305666668467], ["updated_at", "2015-12-26 20:51:39.517977"], ["id", 28]]
+  [1m[35m (0.9ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907322333335166], ["updated_at", "2015-12-26 20:51:40.526595"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907339000001866], ["updated_at", "2015-12-26 20:51:41.534025"], ["id", 28]]
+  [1m[35m (0.8ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.90735566666857], ["updated_at", "2015-12-26 20:51:42.540278"], ["id", 28]]
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335267], ["updated_at", "2015-12-26 20:51:43.554452"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:44.561823"], ["id", 28]]
+  [1m[36m (0.8ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:45.569090"], ["id", 28]]
+  [1m[35m (1.1ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:46.577749"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:47.585177"], ["id", 28]]
+  [1m[35m (0.2ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:48.590840"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.7ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.4ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:49.597607"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:50.602782"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:51.610292"], ["id", 28]]
+  [1m[35m (1.0ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:52.618569"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:53.625012"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:54.631026"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:55.638021"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:56.643710"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:57.650580"], ["id", 28]]
+  [1m[35m (0.6ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.7ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:58.658800"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.4ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:51:59.668061"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:00.675161"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:01.682921"], ["id", 28]]
+  [1m[35m (0.6ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:02.690858"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:03.698808"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.7ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:04.707292"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:05.714568"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:06.721681"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:07.730205"], ["id", 28]]
+  [1m[35m (0.8ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.5ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:08.738941"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.7ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:09.746939"], ["id", 28]]
+  [1m[35m (0.6ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:10.755633"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:11.763747"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:12.770346"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (1.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:13.778448"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:14.787143"], ["id", 28]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:15.794818"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.0ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:16.801825"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:17.809412"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:18.819309"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:19.826344"], ["id", 28]]
+  [1m[35m (0.2ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:20.834292"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:21.841736"], ["id", 28]]
+  [1m[35m (0.2ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:22.850349"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.4ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:23.860220"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.4ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:24.870658"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:25.878128"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:26.884849"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.6ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:27.894218"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:28.900345"], ["id", 28]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:29.908921"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.5ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:30.918434"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:31.927430"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:32.937055"], ["id", 28]]
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:33.944869"], ["id", 28]]
+  [1m[35m (0.3ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:34.952785"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.9ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.0ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:35.961660"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.2ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:36.969829"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:37.978232"], ["id", 28]]
+  [1m[35m (0.6ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:38.988191"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:39.997054"], ["id", 28]]
+  [1m[35m (1.2ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:41.006563"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.5ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:42.014829"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:43.022826"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:44.030889"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:45.038796"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.9ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:46.048254"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:47.055355"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.8ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:48.063593"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.4ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:49.069949"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (1.0ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:50.079937"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:51.087710"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:52.095940"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:53.104013"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:54.111813"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.6ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:55.120818"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:56.128237"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:57.134884"], ["id", 28]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.7ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:58.143162"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.6ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:52:59.150845"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:00.158870"], ["id", 28]]
+  [1m[35m (0.3ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.3ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:01.167790"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:02.184650"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:03.191496"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:04.199594"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:05.207685"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:06.217284"], ["id", 28]]
+  [1m[35m (0.2ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:07.222817"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:08.229922"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:09.238520"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.8ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:10.250519"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:11.256213"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (1.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:12.266291"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.6ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:13.273491"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:14.279661"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (1.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:15.288450"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.5ms)[0m  BEGIN
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:16.300406"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:17.307327"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.2ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.9ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:18.316069"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:19.322829"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.4ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:20.330449"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.8ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.3ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:21.341371"], ["id", 28]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:22.350546"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.5ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:23.358854"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.6ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.4ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:24.369060"], ["id", 28]]
+  [1m[35m (1.1ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.6ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.3ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:25.378441"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.7ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:26.386352"], ["id", 28]]
+  [1m[35m (0.7ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.6ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:27.393351"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.8ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:28.403545"], ["id", 28]]
+  [1m[35m (0.3ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:29.410204"], ["id", 28]]
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:30.417877"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.4ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:31.425562"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (1.1ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.3ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:32.435660"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:33.444515"], ["id", 28]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:34.451017"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:35.458361"], ["id", 28]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:36.465135"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:37.473081"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:38.480651"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:39.489428"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:40.497825"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:41.503208"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.5ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:42.510850"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:43.519982"], ["id", 28]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.6ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:44.527892"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:45.534900"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.3ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:46.541042"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:47.548827"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:48.555622"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.3ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.1ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:49.562516"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.5ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (1.1ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:50.569668"], ["id", 28]]
+  [1m[35m (0.4ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.4ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:51.577438"], ["id", 28]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:52.585267"], ["id", 28]]
+  [1m[35m (1.1ms)[0m  COMMIT
+sleeping
+  [1m[36mPointOfInterest Load (0.5ms)[0m  [1mSELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1[0m  [["tracking", "t"]]
+  [1m[35mPoint Load (0.2ms)[0m  SELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1  [["point_of_interest_id", 28]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:53.593467"], ["id", 28]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+sleeping
+  [1m[35mPointOfInterest Load (0.4ms)[0m  SELECT "point_of_interests".* FROM "point_of_interests" WHERE "point_of_interests"."tracking" = $1  [["tracking", "t"]]
+  [1m[36mPoint Load (0.2ms)[0m  [1mSELECT  "points".* FROM "points" WHERE "points"."point_of_interest_id" = $1 LIMIT 1[0m  [["point_of_interest_id", 28]]
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "point_of_interests" SET "lng" = $1, "updated_at" = $2 WHERE "point_of_interests"."id" = $3[0m  [["lng", 17.907372333335303], ["updated_at", "2015-12-26 20:53:54.600769"], ["id", 28]]
+  [1m[35m (0.5ms)[0m  COMMIT
+sleeping

@@ -57,8 +57,11 @@ module V1
       if @point_of_interest.tracking
         render json: { error: 'Point is already being tracked.' }, status: :unprocessable_entity
       else
-        point = Point.create(lat: @point_of_interest.lat, lng: @point_of_interest.lng + position_increment, inc: true)
-        puts "ok",point.lng, point.lat
+        inc_value = 0.001
+        interval = 60.0
+        step_value = inc_value / interval
+        point = Point.create(lat: @point_of_interest.lat, lng: @point_of_interest.lng + inc_value,
+         inc_value: inc_value, lng_inc: step_value, lat_inc: step_value, inc: true)
         @point_of_interest.update(point: point, tracking: true)
         head :no_content
       end
@@ -79,36 +82,30 @@ module V1
       if !@point_of_interest.tracking
         render json: { error: 'Point is not being tracked' }, status: :unprocessable_entity
       else
-        step = get_step
-        step = -step if !@point_of_interest.point.inc
-        @point_of_interest.lng += step
-
-        render json: @point_of_interest, root: 'poi'
-        if (@point_of_interest.point.inc && @point_of_interest.lng > @point_of_interest.point.lng) || (!@point_of_interest.point.inc && @point_of_interest.lng < @point_of_interest.point.lng)
-          reverse_tracking
-        end
+        render json: @point_of_interest, root: 'poi' 
       end
     end
 
     private
       def get_step
-        position_increment = 0.01
-        interval = 30.0
-        step = (position_increment / interval) * (DateTime.current.second % interval)
-        puts "mkay", step        
+        position_increment = 0.001
+        interval = 60.0
+        step = (position_increment / interval) * (DateTime.current.second + 1.0)
         step
       end
 
       def reverse_tracking
-        temp_lng = @point_of_interest.lng
-        temp_lat = @point_of_interest.lat
-
+        position_increment = 0.001
+        puts "ovdje sam"
         @point_of_interest.lng = @point_of_interest.point.lng
-        @point_of_interest.lat = @point_of_interest.point.lat
 
-        @point_of_interest.point.lng = temp_lng
-        @point_of_interest.point.lat = temp_lat
-        @point_of_interest.point.inc = !@point_of_interest.point.inc
+        if @point_of_interest.point.inc
+          @point_of_interest.point.lng = @point_of_interest.point.lng - position_increment
+          @point_of_interest.point.inc = false
+        else
+          @point_of_interest.point.lng = @point_of_interest.point.lng + position_increment
+          @point_of_interest.point.inc = true
+        end  
 
         @point_of_interest.save
         @point_of_interest.point.save
