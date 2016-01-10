@@ -14,8 +14,9 @@ module V1
 
     def login 
       credentials = get_login_credentials
+      puts params
       @user = User.find_by(username: credentials[0])
-      get_new_session_key if @user.session.expiration_date < Date.current
+      get_new_session_key if (@user.session.expiration_date < Date.current) || params[:reset_session_key]
 
       render json: render_login_data, status: 200
     end
@@ -60,7 +61,7 @@ module V1
 
     private
       def render_login_data
-        { user: { username: @user.username, first_name: @user.first_name, last_name: @user.last_name, email: @user.email, session_key: @user.session.session_key } }
+        { user: { username: @user.username, first_name: @user.first_name, last_name: @user.last_name, company_id: @user.company_id, email: @user.email, session_key: @user.session.session_key } }
       end
       def set_user
         @user = User.find(params[:id])

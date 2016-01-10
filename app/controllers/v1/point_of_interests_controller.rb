@@ -25,7 +25,9 @@ module V1
     def create
       @point_of_interest = PointOfInterest.new(point_of_interest_params)
 
-      if Company.where(id: @point_of_interest.company.id) && @point_of_interest.save
+      puts @point_of_interest.company
+
+      if @point_of_interest.company && Company.where(id: @point_of_interest.company.id) && @point_of_interest.save
         render json: @point_of_interest, status: :created
       else
         render json: @point_of_interest.errors, status: :unprocessable_entity
@@ -87,30 +89,6 @@ module V1
     end
 
     private
-      def get_step
-        position_increment = 0.001
-        interval = 60.0
-        step = (position_increment / interval) * (DateTime.current.second + 1.0)
-        step
-      end
-
-      def reverse_tracking
-        position_increment = 0.001
-        puts "ovdje sam"
-        @point_of_interest.lng = @point_of_interest.point.lng
-
-        if @point_of_interest.point.inc
-          @point_of_interest.point.lng = @point_of_interest.point.lng - position_increment
-          @point_of_interest.point.inc = false
-        else
-          @point_of_interest.point.lng = @point_of_interest.point.lng + position_increment
-          @point_of_interest.point.inc = true
-        end  
-
-        @point_of_interest.save
-        @point_of_interest.point.save
-      end
-
       def find_owner_company_id
         Session.where(session_key: extract_session_key).first.user.company.id
       end
@@ -123,7 +101,7 @@ module V1
       end
 
       def point_of_interest_params
-        params.require(:point_of_interest).permit(:name, :description, :date_added, :lat, :lng, :company_id)
+        params.require(:point_of_interest).permit(:name, :description, :date_added, :lat, :lng, :company_id, :state)
       end
   end
 end

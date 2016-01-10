@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  motor_running: false
+  windows_up: false
+  car_locked: false
+  point_of_interest_id: 
+
+two:
+  motor_running: false
+  windows_up: false
+  car_locked: false
+  point_of_interest_id: 

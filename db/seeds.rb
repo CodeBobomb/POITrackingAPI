@@ -8,9 +8,10 @@
 User.delete_all
 Company.delete_all
 Session.delete_all
+TrackingDevice.delete_all
+State.delete_all
 Point.delete_all
 PointOfInterest.delete_all
-TrackingDevice.delete_all
 
 company = Company.create!(name: "Atlantbh", headquarters: "Sarajevo")
 user = User.create!(first_name: "Adnan", last_name: "Muslija", username: "adnanabh", email: "email@mail.com", password: "password123", date_of_birth: Date.current, company: company)

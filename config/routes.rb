@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :states, except: [:new, :edit]
   namespace :v1 do
     resources :companies, except: [:new, :edit]
     resources :point_of_interests, except: [:new, :edit], path: "poi"

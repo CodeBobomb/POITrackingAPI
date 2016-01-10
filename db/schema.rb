@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151226203143) do
+ActiveRecord::Schema.define(version: 20160110102250) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -57,6 +57,17 @@ ActiveRecord::Schema.define(version: 20151226203143) do
     t.integer  "user_id"
   end
 
+  create_table "states", force: :cascade do |t|
+    t.boolean  "motor_running",        default: false
+    t.boolean  "windows_up",           default: false
+    t.boolean  "car_locked",           default: false
+    t.integer  "point_of_interest_id"
+    t.datetime "created_at",                           null: false
+    t.datetime "updated_at",                           null: false
+  end
+
+  add_index "states", ["point_of_interest_id"], name: "index_states_on_point_of_interest_id", using: :btree
+
   create_table "tracking_devices", force: :cascade do |t|
     t.string   "device_name"
     t.string   "device_type"
@@ -78,4 +89,5 @@ ActiveRecord::Schema.define(version: 20151226203143) do
   end
 
   add_foreign_key "points", "point_of_interests"
+  add_foreign_key "states", "point_of_interests"
 end
