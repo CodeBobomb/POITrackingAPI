@@ -61,7 +61,8 @@ module V1
       else
         inc_value = 0.001
         interval = 60.0
-        step_value = inc_value / interval
+        golden_value
+        step_value = (inc_value / interval) * golden_value 
         point = Point.create(lat: @point_of_interest.lat, lng: @point_of_interest.lng + inc_value,
          inc_value: inc_value, lng_inc: step_value, lat_inc: step_value, inc: true)
         @point_of_interest.update(point: point, tracking: true)
