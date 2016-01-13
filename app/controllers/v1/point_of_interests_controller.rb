@@ -38,8 +38,12 @@ module V1
     # PATCH/PUT /point_of_interests/1.json
     def update
       @point_of_interest = PointOfInterest.find(params[:id])
-
-      if @point_of_interest.update(point_of_interest_params)
+      puts params[:point_of_interest][:state],params[:state], 'musa'
+      @point_of_interest.state.motor_running = params[:point_of_interest][:state][:motor_running]
+      @point_of_interest.state.windows_up = params[:point_of_interest][:state][:windows_up]
+      @point_of_interest.state.car_locked = params[:point_of_interest][:state][:car_locked]
+      if @point_of_interest.update(point_of_interest_params) && @point_of_interest.state.save
+        puts @point_of_interest.state.motor_running
         head :no_content
       else
         render json: @point_of_interest.errors, status: :unprocessable_entity
@@ -102,7 +106,7 @@ module V1
       end
 
       def point_of_interest_params
-        params.require(:point_of_interest).permit(:name, :description, :date_added, :lat, :lng, :company_id, :state)
+        params.require(:point_of_interest).permit(:name, :description, :date_added, :lat, :lng, :company_id)
       end
   end
 end
